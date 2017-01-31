@@ -71,7 +71,7 @@ how to configure the DHCP server
 Static ip addressing
 	--> http://www.howtogeek.com/howto/19249/how-to-assign-a-static-ip-address-in-xp-vista-or-windows-7/
 	--> http://www.dslreports.com/faq/2725
-	--> 
+	--> http://www.linksys.com/us/support-article?articleNum=136791
 
   
 difference between ip and mac address
