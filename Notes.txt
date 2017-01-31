@@ -1,0 +1,49 @@
+Networking
+
+3 devices by function
+
+hub
+	no configuration
+	no wifi
+	
+
+switch
+	with configuration only for LAN
+	to connect computers for file sharing
+	needs a modem or a router
+
+router
+	with configuration
+	has LAN
+	has Wifi
+	MAN
+	WAN
+
+Home Network
+
+modem (Modulator Demodulator)
+	analog(dial tone) to digital
+	DSL()
+
+router
+	connected to the modem
+	allows multiple connections
+
+
+modem/router
+	combination
+
+wifi hot spots/tethering
+	uses 3g or 4g connection
+	allows mobile devices to become a pocket wifi
+
+DLINK model 
+
+LINKSYS dualband wrd3200n
+
+default gateway
+default uname
+default pass
+
+how to configure the DHCP server
+Static ip addressing 
