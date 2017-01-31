@@ -37,13 +37,31 @@ wifi hot spots/tethering
 	uses 3g or 4g connection
 	allows mobile devices to become a pocket wifi
 
-DLINK model 
+
+
+DLINK model DIR-655
+
+default gateway
+	192.168.0.1.
+default uname
+	admin
+default pass
+	no password
+	
+
+how to configure the DHCP server
+Static ip addressing 
+difference between ip and mac address
 
 LINKSYS dualband wrd3200n
 
 default gateway
+	192.168.1.1
 default uname
+	no username
 default pass
+	admin
 
 how to configure the DHCP server
 Static ip addressing 
+difference between ip and mac address
