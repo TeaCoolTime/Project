@@ -67,9 +67,17 @@ how to configure the DHCP server
 
 	Accessing linksys smart wi-fi account
 		--> http://www.linksys.com/ph/support-article?articleNum=140973
+
 Static ip addressing
-	-->  
+	--> http://www.howtogeek.com/howto/19249/how-to-assign-a-static-ip-address-in-xp-vista-or-windows-7/
+	--> http://www.dslreports.com/faq/2725
+	--> 
+
+  
 difference between ip and mac address
+
+
+
 
 https://www.lifewire.com/linksys-default-password-list-2619153
 http://www.cleancss.com/router-default/D-Link/DIR-655
