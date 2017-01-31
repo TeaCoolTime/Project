@@ -63,5 +63,15 @@ default pass
 	admin
 
 how to configure the DHCP server
-Static ip addressing 
+	--> http://www.linksys.com/us/support-article?articleNum=135673
+
+	Accessing linksys smart wi-fi account
+		--> http://www.linksys.com/ph/support-article?articleNum=140973
+Static ip addressing
+	-->  
 difference between ip and mac address
+
+https://www.lifewire.com/linksys-default-password-list-2619153
+http://www.cleancss.com/router-default/D-Link/DIR-655
+http://setuprouter.com/router/dlink/dir-655/manuals.htm
+http://www.linksys.com/nz/support-article?articleNum=137174
